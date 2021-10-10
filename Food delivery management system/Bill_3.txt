@@ -1,0 +1,8 @@
+Order with id : 3
+Containing : 
+BaseProduct{name='Thai Spices Shrimp Salad with Asian Greens and Pesto Dressing ', rating=3.75, calories=644.0, proteins=8.0, fats=28.0, sodium=953.0, price=67.0}
+BaseProduct{name='Lemon Fennel Iced Tea ', rating=0.0, calories=139.0, proteins=0.0, fats=0.0, sodium=13.0, price=68.0}
+BaseProduct{name='Pizza Sauce ', rating=3.75, calories=122.0, proteins=3.0, fats=9.0, sodium=295.0, price=58.0}
+Total price : 193.0
+ for client with id : 2
+ on : Fri Jun 04 04:14:20 EEST 2021

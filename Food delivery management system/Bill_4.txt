@@ -1,0 +1,7 @@
+Order with id : 4
+Containing : 
+BaseProduct{name='Cranberry Mustard ', rating=4.375, calories=253.0, proteins=7.0, fats=8.0, sodium=319.0, price=54.0}
+BaseProduct{name='White Chocolate-Sambuca Cream ', rating=3.75, calories=179.0, proteins=1.0, fats=14.0, sodium=23.0, price=29.0}
+Total price : 83.0
+ for client with id : 2
+ on : Fri Jun 04 07:55:12 EEST 2021

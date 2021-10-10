@@ -1,0 +1,8 @@
+Order with id : 1
+Containing : 
+BaseProduct{name='Presto Pesto Pizza ', rating=4.375, calories=821.0, proteins=16.0, fats=23.0, sodium=124.0, price=17.0}
+BaseProduct{name='Pizza 6: Pan-fried Hawaiian Pizza ', rating=3.75, calories=2027.0, proteins=102.0, fats=174.0, sodium=1770.0, price=41.0}
+BaseProduct{name='Berry-Yogurt Smoothie ', rating=5.0, calories=326.0, proteins=12.0, fats=5.0, sodium=135.0, price=17.0}
+Total price : 75.0
+ for client with id : 2
+ on : Fri Jun 04 04:10:37 EEST 2021

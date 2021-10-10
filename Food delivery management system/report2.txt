@@ -1,0 +1,1 @@
+BaseProduct{name='Cranberry Mustard ', rating=4.375, calories=253.0, proteins=7.0, fats=8.0, sodium=319.0, price=54.0}

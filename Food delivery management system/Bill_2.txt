@@ -1,0 +1,8 @@
+Order with id : 2
+Containing : 
+BaseProduct{name='Cranberry Mustard ', rating=4.375, calories=253.0, proteins=7.0, fats=8.0, sodium=319.0, price=54.0}
+BaseProduct{name='Pear-Hazelnut Cheesecakes with Pear-Raspberry Sauce ', rating=3.125, calories=537.0, proteins=14.0, fats=25.0, sodium=128.0, price=93.0}
+BaseProduct{name='Cheese Blintzes with Blueberry Sauce ', rating=4.375, calories=261.0, proteins=9.0, fats=11.0, sodium=402.0, price=79.0}
+Total price : 226.0
+ for client with id : 2
+ on : Fri Jun 04 04:13:06 EEST 2021

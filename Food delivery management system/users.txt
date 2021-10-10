@@ -1,0 +1,4 @@
+Mihai,30000,client
+Vladut,3000,client
+Bogdan,fs,employee
+Costi,beauspirt,admin
